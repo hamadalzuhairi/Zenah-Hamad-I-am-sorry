@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Apology Letter",
+  "description": "A beautiful, interactive apology letter featuring customized messages, virtual flower bouquet builder, sweet redemption coupons, and a playful forgiveness game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
